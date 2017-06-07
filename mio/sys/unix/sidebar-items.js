@@ -1,0 +1,1 @@
+initSidebarItems({"mod":[["dlsym",""]],"struct":[["EventedFd","Adapter for [`RawFd`] providing an [`Evented`] implementation."],["Io","Manages a FD"],["IoVec","A specialized byte slice type for performing vectored I/O operations."],["UnixReady","Unix specific extensions to `Ready`"]]});

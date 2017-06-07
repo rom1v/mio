@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["Event","An readiness event returned by [`Poll::poll`]."],["PollOpt","Options supplied when registering an `Evented` handle with `Poll`"],["Ready","A set of readiness event kinds"]],"trait":[["Evented","A value that may be registered with `Poll`"]]});

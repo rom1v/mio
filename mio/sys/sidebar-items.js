@@ -1,0 +1,1 @@
+initSidebarItems({"mod":[["unix",""]],"struct":[["EventedFd","Adapter for [`RawFd`] providing an [`Evented`] implementation."],["Io","Manages a FD"]]});

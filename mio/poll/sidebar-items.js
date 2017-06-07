@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["Events","A collection of readiness events."],["Iter","[`Events`] iterator."],["Poll","Polls for readiness events on all registered values."],["Registration","Handle to a user space `Poll` registration."],["SetReadiness","Updates the readiness state of the associated [`Registration`]."]]});

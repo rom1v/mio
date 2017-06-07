@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["IoVec","A specialized byte slice type for performing vector reads and writes."]]});
